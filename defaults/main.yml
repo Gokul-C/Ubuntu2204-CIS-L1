@@ -137,7 +137,7 @@ cis_ubuntu2204_rule_3_4_4: true
 cis_ubuntu2204_rule_3_5_1_1: true # NOTE: 'cis_ubuntu2204_firewall == ufw'
 cis_ubuntu2204_rule_3_5_1_2: true # NOTE: 'cis_ubuntu2204_firewall == ufw'
 cis_ubuntu2204_rule_3_5_1_3: true # NOTE: 'cis_ubuntu2204_firewall == ufw'
-cis_ubuntu2204_rule_3_5_1_4: true # NOTE: 'cis_ubuntu2204_firewall == ufw'
+cis_ubuntu2204_rule_3_5_1_4: false # NOTE: 'cis_ubuntu2204_firewall == ufw'
 cis_ubuntu2204_rule_3_5_1_5: true # NOTE: 'cis_ubuntu2204_firewall == ufw'
 cis_ubuntu2204_rule_3_5_1_6: true # NOTE: 'cis_ubuntu2204_firewall == ufw'
 cis_ubuntu2204_rule_3_5_1_7: true # NOTE: 'cis_ubuntu2204_firewall == ufw'
